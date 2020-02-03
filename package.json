@@ -1,0 +1,18 @@
+{
+  "name": "@mzyun/mz-ui",
+  "version": "1.0.1",
+  "description": "private ui framework for uni-app project",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mz-ui",
+    "uni-app"
+  ],
+  "author": "MingZhi Corp",
+  "license": "MIT"
+}
